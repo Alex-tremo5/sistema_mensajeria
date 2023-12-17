@@ -107,6 +107,24 @@ menu li {
   margin-top: 5px;
 }
 
+.profile {
+  background: #a18cce;
+  background: linear-gradient(36deg, #79baf7 13%, #a18cce 73%, #d396e2 100%);
+  padding: 2px;
+  box-sizing: border-box;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  margin: 0 5px;
+}
+
+.profile img {
+  padding: 0;
+  margin: 0;
+  border: solid 3px white;
+  align-items: center;
+}
+
 .derecha {
   display: flex;
   justify-content: center;
